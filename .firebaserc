@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "ang-blog-app-f5fc3"
+  },
+  "targets": {
+    "ang-blog-app-f5fc3": {
+      "hosting": {
+        "angBlogDashboard": [
+          "ang-blog-back"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
